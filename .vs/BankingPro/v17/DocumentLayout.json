@@ -1,108 +1,128 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\BankingPro\\",
+  "WorkspaceRootPath": "C:\\Projects\\New folder\\BankingPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\authorization\\userowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:authorization\\userowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184823B9-DCC8-4E86-A343-6310C2334F70}|..\\BankingPro.DAL\\BankingPro.DAL.csproj|c:\\bankingpro.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506D44A2-BA6A-41D9-9DD4-B99470D005D2}|..\\BankingPro.DTOs\\BankingPro.DTOs.csproj|c:\\bankingpro.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\bankingpro\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{318BCA24-3F6B-4F0E-A266-513362B2E882}|..\\BankingPro.BLL\\BankingPro.BLL.csproj|c:\\bankingpro.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\projects\\new folder\\bankingpro\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\projects\\new folder\\bankingpro\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\bankingpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:bankingpro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\projects\\new folder\\bankingpro\\classbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:classbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\projects\\new folder\\bankingpro\\classdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:classdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|c:\\projects\\new folder\\bankingpro\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\authorization\\userowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:authorization\\userowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|C:\\Projects\\New folder\\BankingPro\\authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69737714-6873-497D-950F-5C5495D2CB39}|BankingPro.csproj|solutionrelative:authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\bankingpro.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,7 +132,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 190,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Bookmark",
@@ -124,11 +144,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Controllers\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:06:27.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassDAl.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\ClassDAl.cs",
+              "RelativeDocumentMoniker": "ClassDAl.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\ClassDAl.cs",
+              "RelativeToolTip": "ClassDAl.cs",
+              "ViewState": "AQIAAF4CAAAAAAAAAAAuwGwCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:57:45.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassBLL.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\ClassBLL.cs",
+              "RelativeDocumentMoniker": "ClassBLL.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\ClassBLL.cs",
+              "RelativeToolTip": "ClassBLL.cs",
+              "ViewState": "AQIAAEQDAAAAAAAAAAAgwFADAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:57:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\ClassDTO.cs",
+              "RelativeDocumentMoniker": "ClassDTO.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\ClassDTO.cs",
+              "RelativeToolTip": "ClassDTO.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAA5wJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:57:04.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BankingPro.csproj",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\BankingPro.csproj",
+              "RelativeDocumentMoniker": "BankingPro.csproj",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\BankingPro.csproj",
+              "RelativeToolTip": "BankingPro.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T13:08:59.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Controllers\\AuthController.cs*",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAuwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:02:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "TokenResponse.cs",
-              "DocumentMoniker": "C:\\BankingPro\\DTOs\\Auth\\TokenResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\TokenResponse.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\TokenResponse.cs",
-              "ToolTip": "C:\\BankingPro\\DTOs\\Auth\\TokenResponse.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\TokenResponse.cs",
               "RelativeToolTip": "DTOs\\Auth\\TokenResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "RefreshRequest.cs",
-              "DocumentMoniker": "C:\\BankingPro\\DTOs\\Auth\\RefreshRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\RefreshRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\RefreshRequest.cs",
-              "ToolTip": "C:\\BankingPro\\DTOs\\Auth\\RefreshRequest.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\RefreshRequest.cs",
               "RelativeToolTip": "DTOs\\Auth\\RefreshRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "LogoutRequest.cs",
-              "DocumentMoniker": "C:\\BankingPro\\DTOs\\Auth\\LogoutRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\LogoutRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\LogoutRequest.cs",
-              "ToolTip": "C:\\BankingPro\\DTOs\\Auth\\LogoutRequest.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\LogoutRequest.cs",
               "RelativeToolTip": "DTOs\\Auth\\LogoutRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\BankingPro\\DTOs\\Auth\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\LoginRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\LoginRequest.cs",
-              "ToolTip": "C:\\BankingPro\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\DTOs\\Auth\\LoginRequest.cs",
               "RelativeToolTip": "DTOs\\Auth\\LoginRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,260 +278,250 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "UserOwnerOrAdminRequirement.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Authorization\\UserOwnerOrAdminRequirement.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Authorization\\UserOwnerOrAdminRequirement.cs",
               "RelativeDocumentMoniker": "Authorization\\UserOwnerOrAdminRequirement.cs",
-              "ToolTip": "C:\\BankingPro\\Authorization\\UserOwnerOrAdminRequirement.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Authorization\\UserOwnerOrAdminRequirement.cs",
               "RelativeToolTip": "Authorization\\UserOwnerOrAdminRequirement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:25:13.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "UserOwnerOrAdminHandler.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Authorization\\UserOwnerOrAdminHandler.cs",
               "RelativeDocumentMoniker": "Authorization\\UserOwnerOrAdminHandler.cs",
-              "ToolTip": "C:\\BankingPro\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Authorization\\UserOwnerOrAdminHandler.cs",
               "RelativeToolTip": "Authorization\\UserOwnerOrAdminHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAswB4AAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:24:43.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Currency.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Currency.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Currency.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Currency.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Currency.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Currency.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Currency.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAswBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:19:50.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:19:50.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "AccountType.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\AccountType.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\AccountType.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\AccountType.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\AccountType.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\AccountType.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\AccountType.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\AccountType.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\AccountType.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAswBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:19:08.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:19:08.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Role.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Role.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Role.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Role.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Role.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAswBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:18:54.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:18:54.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Branch.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Branch.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Branch.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Branch.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Branch.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Branch.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAswBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:18:24.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:18:24.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Card.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Card.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Card.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Card.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Card.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Card.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Card.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAswB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:18:09.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:18:09.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "TransactionType.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\TransactionType.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\TransactionType.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\TransactionType.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\TransactionType.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\TransactionType.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\TransactionType.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\TransactionType.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\TransactionType.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAswBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:17:55.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:17:55.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Transaction.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Transaction.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:17:33.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Account.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Account.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Account.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:17:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Models\\Customer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:17:01.451Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Transaction.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Transaction.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Transaction.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAswCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:17:33.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Account.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Account.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Account.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAswD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:17:16.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\Customer.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Models\\Customer.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\Customer.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:17:01.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\BankingPro.DAL\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BankingPro.DAL\\Models\\User.cs",
               "ToolTip": "C:\\BankingPro.DAL\\Models\\User.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "RelativeToolTip": "..\\..\\..\\BankingPro.DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:16:27.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Context\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:15:13.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T21:15:13.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\BankingPro\\appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\BankingPro\\appsettings.json",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-05T21:09:21.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\BankingPro\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAswLoAAAAAAAAA",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwK4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:09:01.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "BranchesController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\BranchesController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\BranchesController.cs",
               "RelativeDocumentMoniker": "Controllers\\BranchesController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\BranchesController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\BranchesController.cs",
               "RelativeToolTip": "Controllers\\BranchesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwG4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:04:38.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "TransactionsController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\TransactionsController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\TransactionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\TransactionsController.cs",
               "RelativeToolTip": "Controllers\\TransactionsController.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAswIEAAAAAAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwIEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:04:11.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 7,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\AccountsController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAswIQAAAAVAAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAuwI0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:03:46.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 3,
               "Title": "CardsController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\CardsController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\CardsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CardsController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\CardsController.cs",
               "RelativeToolTip": "Controllers\\CardsController.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAA7wI8AAAAAAAAA",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAuwI8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:03:26.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 2,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Controllers\\CustomersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwHoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:03:06.47Z",
               "EditorCaption": ""
@@ -437,71 +529,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\AuthController.cs*",
-              "RelativeToolTip": "Controllers\\AuthController.cs*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T21:02:45.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\BankingPro\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Projects\\New folder\\BankingPro\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\BankingPro\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Projects\\New folder\\BankingPro\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAswHQAAAAAAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAuwHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:02:09.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\BankingPro.BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BankingPro.BLL\\Class1.cs",
               "ToolTip": "C:\\BankingPro.BLL\\Class1.cs",
-              "RelativeToolTip": "..\\BankingPro.BLL\\Class1.cs",
-              "ViewState": "AQIAADkDAAAAAAAAAAAqwFADAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\BankingPro.BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T21:00:11.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\BankingPro.DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DAL\\Class1.cs",
-              "ToolTip": "C:\\BankingPro.DAL\\Class1.cs",
-              "RelativeToolTip": "..\\BankingPro.DAL\\Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\BankingPro.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\BankingPro.DAL\\Class1.cs",
+              "ToolTip": "C:\\Projects\\BankingPro.DAL\\Class1.cs",
+              "RelativeToolTip": "..\\..\\BankingPro.DAL\\Class1.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:59:49.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T20:59:49.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\BankingPro.DTOs\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\BankingPro.DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BankingPro.DTOs\\Class1.cs",
               "ToolTip": "C:\\BankingPro.DTOs\\Class1.cs",
-              "RelativeToolTip": "..\\BankingPro.DTOs\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\BankingPro.DTOs\\Class1.cs",
               "ViewState": "AQIAAIwAAAAAAAAAAAA6wJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T20:59:19.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-03-05T20:59:19.384Z"
             }
           ]
         }

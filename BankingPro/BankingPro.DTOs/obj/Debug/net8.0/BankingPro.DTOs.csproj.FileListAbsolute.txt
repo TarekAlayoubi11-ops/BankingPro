@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\BankingPro.DTOs\bin\Debug\net8.0\BankingPro.DTOs.deps.json
+C:\Users\hp\Documents\BankingPro.DTOs\bin\Debug\net8.0\BankingPro.DTOs.runtimeconfig.json
+C:\Users\hp\Documents\BankingPro.DTOs\bin\Debug\net8.0\BankingPro.DTOs.dll
+C:\Users\hp\Documents\BankingPro.DTOs\bin\Debug\net8.0\BankingPro.DTOs.pdb
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.AssemblyInfo.cs
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.dll
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\refint\BankingPro.DTOs.dll
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.pdb
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\BankingPro.DTOs.genruntimeconfig.cache
+C:\Users\hp\Documents\BankingPro.DTOs\obj\Debug\net8.0\ref\BankingPro.DTOs.dll
